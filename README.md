@@ -10,8 +10,9 @@
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/yamasakirhys/configure-ad)
 
 <h2>👨‍💻 Developer Projects:</h2>
-- [Revature Project 2: Rocr Client Front-end](https://github.com/YamasakiRhys/Project2-ClientTeamROCR)
-- [Revature Project 2: Rocr Client Serverside](https://github.com/YamasakiRhys/Project2-ServerTeamROCR)
+- <b>ROCR Full Stack project (Video Game Rental Site)</b>
+  - [Revature Project 2: Rocr Client Front-end](https://github.com/YamasakiRhys/Project2-ClientTeamROCR)
+  - [Revature Project 2: Rocr Client Serverside](https://github.com/YamasakiRhys/Project2-ServerTeamROCR)
 
 <h2>🤳Connect with me:</h2>
 
