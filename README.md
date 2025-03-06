@@ -1,4 +1,4 @@
-<h1>Hi, I'm Rhys, an <a href="https://linkedin.com/in/rhys-yamasaki-4707b379">IT Professional</a> and Fullstack Developer 😊</h1>
+<h1>Hi, I'm Rhys, an <a href="https://linkedin.com/in/rhys-yamasaki-4707b379">IT Professional</a> and Full Stack Developer 😊</h1>
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
